@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo Benjamín Contreras</h1>
-<h3 align="center">Un dedicado desarrollador Backend de Chile</h3>
+<h3 align="center">Un entusiasta programdor de Chile</h3>
 
-- 🔭 Actualmente estoy trabajando en [Bot para Discord](https://github.com/Benja-CM/DiscordBot)
+- 🔭 Actualmente estoy trabajando en **Integraciones para una aplicación movil**
 
-- 🌱 Actualmente estoy aprendiendo **Api discord.js**
+- 🌱 Actualmente estoy aprendiendo a trabajar con **Firebase**
 
-- 📫 How to reach me **benjamin0acm@gmail.com**
+- 📫 Donde contactarme **benjamin0acm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
