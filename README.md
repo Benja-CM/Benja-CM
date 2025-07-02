@@ -3,8 +3,6 @@
 
 - 🔭 Actualmente estoy trabajando en **Integraciones para una aplicación movil**
 
-- 🌱 Actualmente estoy aprendiendo a trabajar con **Firebase**
-
 - 📫 Donde contactarme **benjamin0acm@gmail.com**
 
 <h3 align="left">Conecta Conmigo:</h3>
