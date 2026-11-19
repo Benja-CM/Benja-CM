@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Benjamín Contreras</h1>
 <h3 align="center">Un entusiasta programador de Chile</h3>
 
-- 🔭 Actualmente estoy trabajando en **Integraciones para una aplicación movil**
+- 🔭 Actualmente estoy trabajando en un **Bot de Juego para Discord**
 
 - 📫 Donde contactarme **benjamin0acm@gmail.com**
 
